@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
+@media screen and (max-width: 980px){
+    body{
+        background-image: linear-gradient(to right, #3FE909, #0092E1)
+    }
+    iframe{
+        width: 400px;
+        height: 250px;
+    }
+    
+}
+body{
+    background-color: #5CBAFF;
+    background-image: linear-gradient(to right, #3FE909, #0092E1)
+}
+
+.good{
+    color: #FFFFFF;
+}
+.best{
+    border-radius: 100px;
+    width: 75x;
+    height: 75px;
+    
+}
+.navi{
+    color: #FFFFFF;
+    text-align: top;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+.rickroll{
+    float:left;
+    margin-right:20px;
+    padding-bottom: 30px;
+}
+a{
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    color: #FFFFFF;
+    font-size: 20px;
+    transition: color 0.5s;
+}
+a:hover{
+    color: #63F6BA;
+}
+iframe{
+    border-radius: 6px;
+    width: 560;
+    height: 315;
+}
+.head{
+    font-family: https://www.youtube.com/channel/UCSGElBK2Qx9TnH6UVIZ2cQQ;
+    color: aliceblue;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 10%;
+}
+
+.logo{
+    cursor: pointer;
+}
+
+.biglinks li{
+    display: inline-block;
+    padding: 0px 20px;
+}
+
+.biglinks li a {
+    transition: all 0.3 ease 0s;
+}
+
+.biglinks li a:hover{
+    color: #63F6BA;
+}
+.pratap{
+    transition: color 0.5s;
+}
+.pratap:hover{
+    color: #63F6BA;
+}
+
+li{
+    font-family: 'Montserrat', sans-serif;
+}
+
+
