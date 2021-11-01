@@ -1,4 +1,4 @@
-# pratap
+# Pratap
 Hosting my friend's website
 
 
