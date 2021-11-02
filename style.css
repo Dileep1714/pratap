@@ -51,7 +51,7 @@ iframe{
     height: 315;
 }
 .head{
-    font-family: https://www.youtube.com/channel/UCSGElBK2Qx9TnH6UVIZ2cQQ;
+    font-family: 'Montserrat', sans-serif;
     color: aliceblue;
 }
 
@@ -95,4 +95,7 @@ li{
     font-family: 'Montserrat', sans-serif;
 }
 
-
+body{
+    color: aliceblue
+;
+}
