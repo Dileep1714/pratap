@@ -24,7 +24,6 @@ body{
     
 }
 .navi{
-    color: #FFFFFF;
     text-align: top;
     font-family: 'Montserrat', sans-serif;
     font-weight: bold;
@@ -96,5 +95,9 @@ li{
 }
 
 body{
-    color: #FFFFFF;
+    color: aliceblue;
 }
+
+
+
+
